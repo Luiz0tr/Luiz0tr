@@ -8,3 +8,5 @@
 luiz.otero@escola.pr.gov.br
 
 ![](https://media.tenor.com/0LAAhFKVHBYAAAAC/reyna-valorant.gif)
+
+
