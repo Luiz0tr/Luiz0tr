@@ -6,13 +6,7 @@
 
 <h2 data-importer="text" align="left">Bem vindo ao meu perfil! 👋</h2>
 
-###
 
-<div data-importer="profile-views" align="center">
-  <img data-importer="profile-views" src="https://visitor-badge.laobi.icu/badge?page_id=Luiz0tr.Luiz0tr&left_color=blue&right_color=blue&left_text=%E3%85%A4"  />
-</div>
-
-###
 
 <div data-importer="border">
   <img style="100%" src="https://capsule-render.vercel.app/api?type=transparent&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
