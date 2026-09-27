@@ -6,7 +6,12 @@
 
 <div data-importer="stats" align="center">
   <img src="https://streak-stats.demolab.com?user=Luiz0tr&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://raw.githubusercontent.com/Luiz0tr/Luiz0tr/languages-output/languages.svg?locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<div data-importer="stats" align="center">
+  <img src="https://raw.githubusercontent.com/Luiz0tr/Luiz0tr/languages-output/languages.svg?locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&order=2" height="158" alt="languages graph"  />
 </div>
 
 ###
@@ -51,5 +56,10 @@
 <br clear="both">
 
 <img data-importer="snake" src="https://raw.githubusercontent.com/Luiz0tr/Luiz0tr/snake-output/snake.svg" alt="Snake animation" />
+
+
+<a href="https://open.spotify.com/user/31ey2akstyktvvoofvcfcrjyujnu">
+  <img src="https://spotify-recently-played.jeffreyca.workers.dev/svg?user=31ey2akstyktvvoofvcfcrjyujnu&amp;count=1&amp;album=1" alt="Spotify recently played" width="400" />
+</a>
 
 ###
