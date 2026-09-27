@@ -42,7 +42,7 @@
 
 ###
 
-<img data-importer="image" align="right" height="150" src="https://media.tenor.com/LqgQJ3yK9bkAAAAj/silly-cat-gif-silly-cat-dance-gif.gif"  />
+<img data-importer="image" align="right" height="186" src="https://media.tenor.com/LqgQJ3yK9bkAAAAj/silly-cat-gif-silly-cat-dance-gif.gif"  />
 
 ###
 
