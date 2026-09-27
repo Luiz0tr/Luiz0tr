@@ -3,7 +3,7 @@
 ###
 
 <div data-importer="stats" align="center">
-  <img src="https://streak-stats.demolab.com?user=Luiz0tr&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=Luiz0tr&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=9&order=3" height="154" alt="streak graph"  />
 </div>
 
 ###
@@ -42,7 +42,7 @@
 
 ###
 
-<img data-importer="image" align="right" height="138" src="https://media.tenor.com/LqgQJ3yK9bkAAAAj/silly-cat-gif-silly-cat-dance-gif.gif"  />
+<img data-importer="image" align="right" height="150" src="https://media.tenor.com/LqgQJ3yK9bkAAAAj/silly-cat-gif-silly-cat-dance-gif.gif"  />
 
 ###
 
