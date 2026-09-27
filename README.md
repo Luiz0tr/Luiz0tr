@@ -2,7 +2,8 @@
 
 <p>Meu nome é Luiz Gustavo Ferreira Otero</p>
 
-    <p>     • Sou programador full stack me graduando em engenharia de software na Universidade Estadual do Parana</p>
+
+<p>     • Sou programador full stack me graduando em engenharia de software na Universidade Estadual do Parana</p>
 <p>     • Estou me desenvolvendo nas linguagens Python, Java, JavaScript, HTML, CSS e SQL </p>
 
 ###
