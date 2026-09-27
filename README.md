@@ -9,9 +9,9 @@
 </ul>
 
 
-<h2><strong>Para entrar em contato comigo </strong>📫</h2>
+### Você pode entrar em contato comigo 📬
 
-###
+<a href="mailto:luiz.otero25@gmail.com">luiz.otero25@gmail.com</a>
 
 <br clear="both">
 
