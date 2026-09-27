@@ -4,7 +4,8 @@
 
 <ul>
         <li> Sou programador full stack me graduando em engenharia de software na Universidade Estadual do Parana </li>
-        <li> Estou me desenvolvendo nas linguagens Python, Java, JavaScript, HTML, CSS e SQL </li>
+        <li> </li>
+        <li> Estou me desenvolvendo nas linguagens Python, Java, JavaScript, HTML, CSS e SQL 🧑‍💻 </li>
 </ul>
 
 
