@@ -1,5 +1,10 @@
 <h2 data-importer="text" align="left">Bem vindo ao meu perfil!👋</h2>
 
+<p>Meu nome é Luiz Gustavo Ferreira Otero</p>
+
+<p>  • Sou programador full stack me graduando em engenharia de software na Universidade Estadual do Parana</p>
+<p>  • Estou me desenvolvendo nas linguagens Python, Java, JavaScript, HTML, CSS e SQL </p>
+
 ###
 
 <div data-importer="border">
