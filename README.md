@@ -2,14 +2,11 @@
 
 <p>Meu nome é Luiz Gustavo Ferreira Otero</p>
 
-
-<p>     • Sou programador full stack me graduando em engenharia de software na Universidade Estadual do Parana</p>
-<p>     • Estou me desenvolvendo nas linguagens Python, Java, JavaScript, HTML, CSS e SQL </p>
 <ul>
         <li> Sou programador full stack me graduando em engenharia de software na Universidade Estadual do Parana </li>
         <li> Estou me desenvolvendo nas linguagens Python, Java, JavaScript, HTML, CSS e SQL </li>
 </ul>
-###
+
 
 <div data-importer="border">
   <img style="100%" src="https://capsule-render.vercel.app/api?type=transparent&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
